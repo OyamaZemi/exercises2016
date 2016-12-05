@@ -6,3 +6,4 @@
 * [鈴木 大志](http://nbviewer.jupyter.org/github/SUZUKITAISHI/Function-Approximation/blob/master/ex6.ipynb)
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/MyInterpolations.jl/blob/master/Ex06.ipynb)
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/linear-interpolation.jl/blob/master/BasisMatrices.ipynb)
+* [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/My-/blob/master/Ex06%20%E6%8F%90%E5%87%BA%E7%94%A8.ipynb)
